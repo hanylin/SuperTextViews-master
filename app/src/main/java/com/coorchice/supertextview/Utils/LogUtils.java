@@ -28,6 +28,7 @@ import com.coorchice.supertextview.BuildConfig;
  * Date:16/8/23
  * Notes:
  */
+
 public class LogUtils {
 
   public static boolean DEBUG = BuildConfig.DEBUG;
