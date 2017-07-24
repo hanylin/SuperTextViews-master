@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
    private SuperTextView stv_20;
    private SuperTextView stv_21;
 
+    //-----------------------------------=================================================
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
